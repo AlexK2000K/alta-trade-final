@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Battery, Zap, Sun, Cpu, Smartphone, Plane } from "lucide-react";
+import { Battery, Zap, Sun, Cpu, Smartphone } from "lucide-react";
 
 const Energy = () => {
   const { t } = useTranslation();
@@ -35,11 +35,6 @@ const Energy = () => {
       icon: <Smartphone className="w-8 h-8 text-blue-600" />,
       titleKey: "energy.homeAppliances.title",
       descKey: "energy.homeAppliances.description"
-    },
-    {
-      icon: <Plane className="w-8 h-8 text-blue-600" />,
-      titleKey: "energy.quadcopters.title",
-      descKey: "energy.quadcopters.description"
     }
   ];
 
