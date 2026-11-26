@@ -282,10 +282,6 @@ const resources = {
           title: "Electronic and Home Appliances",
           description: "Professional-grade electronic devices and appliances for commercial establishments and business facilities."
         },
-        quadcopters: {
-          title: "Quadcopters",
-          description: "Commercial drones and quadcopters for surveying, inspection, monitoring, and specialized business applications."
-        },
         cta: {
           title: "Need Energy Solutions?",
           description: "Contact us for customized quotes on energy equipment and electronic devices tailored to your business requirements.",
@@ -590,10 +586,6 @@ const resources = {
         homeAppliances: {
           title: "Електроніка та побутова техніка",
           description: "Професійні електронні пристрої та техніка для комерційних закладів та бізнес-об'єктів."
-        },
-        quadcopters: {
-          title: "Квадрокоптери",
-          description: "Комерційні дрони та квадрокоптери для зйомки, інспекції, моніторингу та спеціалізованих бізнес-застосувань."
         },
         cta: {
           title: "Потрібні енергетичні рішення?",
